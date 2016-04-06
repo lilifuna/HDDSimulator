@@ -1,0 +1,13 @@
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\bin\Debug\HDDSimulator.exe.config
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\bin\Debug\HDDSimulator.exe
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\bin\Debug\HDDSimulator.pdb
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\obj\Debug\HDDSimulator.Properties.Resources.resources
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\obj\Debug\HDDSimulator.csproj.GenerateResource.Cache
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\obj\Debug\HDDSimulator.exe
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\obj\Debug\HDDSimulator.pdb
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\obj\Debug\HDDSimulator.MainForm.resources
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\bin\Debug\HDDSimulator.exe.manifest
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\bin\Debug\HDDSimulator.application
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\obj\Debug\HDDSimulator.exe.manifest
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\obj\Debug\HDDSimulator.application
+c:\users\test\documents\visual studio 2015\Projects\HDDSimulator\HDDSimulator\obj\Debug\HDDSimulator.csprojResolveAssemblyReference.cache
